@@ -7,7 +7,7 @@
 
 This library is reponsible to configure Azure Servlet Filters before any declared filters.
 
-## Usage
+## Usage
 
 Add the following dependency into your POM:
 
